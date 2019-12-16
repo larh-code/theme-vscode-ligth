@@ -18,7 +18,7 @@
 		"editor.selectionBackground": "#f5e728", // fondo de selector automatico en el codigo
 		"editor.findMatchBackground": "#f5e728", // resaltado de la palabra seleccionada encontrada al realizar una busqueda en el codigo
 		"editor.findMatchHighlightBackground": "#fdff77", // resaltado de las palabras no seleccionada encontrada al realizar una busqueda en el codigo,
-		"editor.selectionHighlightBackground": "#69c716",
+		"editor.selectionHighlightBackground": "#fdff77", // coincidencias cuando se selecciona un texto
 		"editorSuggestWidget.background": "#e3e3e6",
 		"editorSuggestWidget.border": "#8f8f8f",
 		"editorSuggestWidget.foreground": "#332e2e",
