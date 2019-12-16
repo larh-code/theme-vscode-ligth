@@ -14,7 +14,7 @@
             {
                 "label": "highlight code light",
                 "uiTheme": "vs",
-                "path": "./themes/highlight-code-light.json"
+                "path": "./themes/highlight-code-light color-theme.json"
             }
         ]
     }
