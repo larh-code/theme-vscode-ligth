@@ -12,7 +12,7 @@
 		"list.inactiveSelectionBackground": "#c4dff5", // inactive de un archivo o carpeta
 		"list.highlightForeground": "#df1111",
 		"selection.background": "#C9D0D9", // fondo de selector de texto
-		"editor.foreground": "#da2d2d",
+		"editor.foreground": "#252222", // color de letras por defecto en el codigo
 		"editor.background": "#f0efef", // fondo del contenedor de codigo
 		"editor.lineHighlightBackground": "#E4F6D4", // resaltado de la linea actual
 		"editor.selectionBackground": "#f5e728", // fondo de selector automatico en el codigo
@@ -22,7 +22,8 @@
 		"editorSuggestWidget.background": "#e3e3e6",
 		"editorSuggestWidget.border": "#8f8f8f",
 		"editorSuggestWidget.foreground": "#332e2e",
-		"editorBracketMatch.background": "#e28787",
+		"editorBracketMatch.background": "#afcde6", // fondo de las llaves que estan seleccionadas
+		"editorBracketMatch.border": "#5a96c7", // borde del fondo de las llaves que estan seleccionadas
 		"tab.activeBackground": "#848488",
 		"tab.activeForeground": "#ffffff",
 		"tab.inactiveForeground": "#686666",
