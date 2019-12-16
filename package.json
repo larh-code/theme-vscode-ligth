@@ -1,6 +1,6 @@
 {
-    "name": "color-full-highlight",
-    "displayName": "colorfull-light",
+    "name": "highlight-code-light",
+    "displayName": "highlight-code-light",
     "description": "mejor identificacion del codigo",
     "version": "0.0.1",
     "engines": {
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "colorfull light code",
+                "label": "highlight code light",
                 "uiTheme": "vs",
-                "path": "./themes/colorfull light code-color-theme.json"
+                "path": "./themes/highlight-code-light.json"
             }
         ]
     }
