@@ -1,0 +1,21 @@
+{
+    "name": "color-full-highlight",
+    "displayName": "colorfull-light",
+    "description": "mejor identificacion del codigo",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "colorfull light code",
+                "uiTheme": "vs",
+                "path": "./themes/colorfull light code-color-theme.json"
+            }
+        ]
+    }
+}
